@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+voice_env/
+.venv/
+venv/
+
+reference.wav
+output.wav
+
+samples/
+
+.vscode/
